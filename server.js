@@ -76,10 +76,9 @@ app.delete('/deleteTodo', (req, res) => {
   })
   .catch(err => {
     console.log(err)
-  })
 })
 
 
 app.listen(process.env.PORT || PORT, () => {
-  console.log('Server is running')
+  console.log('Server is running got catch it')
 })
