@@ -1,4 +1,4 @@
-# weatherApp
+# findMe
 
 Hi there!
 
